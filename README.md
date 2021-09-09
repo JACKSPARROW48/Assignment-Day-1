@@ -1,2 +1,2 @@
-# Assignment-Day-1
+# Assignment
 Javascript Zero To Hero ASSIGNMENT
